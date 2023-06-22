@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>&lt;Add a small image and the text of your choice. Apply the formatting of your choice such as bold or italics.&gt;</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_58872_needit.NeedIt Properties</name>
+        <read_roles/>
+        <suffix>NeedIt Properties</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 20:04:11</sys_created_on>
+        <sys_id>e215f11a97272110203b39000153af5f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_58872_needit.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_e215f11a97272110203b39000153af5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 20:04:50</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=e215f11a97272110203b39000153af5f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>4976d1c7db857308f492c59705961909</instance_id>
+        <instance_name>dev84532</instance_name>
+        <name>sys_properties_e215f11a97272110203b39000153af5f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>&lt;Add a small image and the text of your choice. Apply the formatting of your choice such as bold or italics.&gt;</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_58872_needit.NeedIt Properties</name><read_roles/><suffix>NeedIt Properties</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-06-22 20:04:11</sys_created_on><sys_id>e215f11a97272110203b39000153af5f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>x_58872_needit.NeedIt Properties</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_e215f11a97272110203b39000153af5f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-06-22 20:04:50</sys_updated_on><type>string</type><value/><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=e215f11a97272110203b39000153af5f"/></record_update>]]></payload>
+        <payload_hash>-196985843</payload_hash>
+        <record_name>x_58872_needit.NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>090c9b0a97136510203b39000153afca</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 20:04:50</sys_created_on>
+        <sys_id>18853d5697272110203b39000153af35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188e4b5aa560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 20:04:50</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>10853d567a272110e073e365db858435</update_guid>
+        <update_guid_history>10853d567a272110e073e365db858435:-196985843,5675fd5691272110bba8c95cf6269c6a:-338437627,cf553d56dd272110ee2033fea326982f:1971735348</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-22 20:05:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>b943017f167340c0ac4c7029f03a5840</sys_id>
+        <sys_metadata>e215f11a97272110203b39000153af5f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_e215f11a97272110203b39000153af5f</sys_update_name>
+        <sys_update_version display_value="sys_properties_e215f11a97272110203b39000153af5f">18853d5697272110203b39000153af35</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-22 20:05:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
